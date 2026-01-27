@@ -5,3 +5,7 @@ This repository contains the code for our paper, titled as above, which was acce
 ## Dataset
 
 Please find the dataset in the provided link: [link](https://drive.google.com/file/d/1H8_Q8HjhGdYICRBf2jcx3_VSQNf2_Nbk/view?usp=sharing)
+
+## Evaluation Protocols
+
+This section will be updated soon!
